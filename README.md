@@ -4,7 +4,7 @@
 ##ABOUT ME:
 
 
-I'm a passionate ETC Student(learner) with experience in C Programming, HTML, CSS. I love working on creative projects, learning new tech, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Student(learner) currently pursuing my Bachelor's in technology degree in Electronics and Telecommunication Engineering from Veer Surendra Sai University of Technology,Burla  with experience in C Programming, HTML, CSS. I love working on creative projects, learning new tech, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Backend Development]**
 - 🔭 Working on: **[3D Calc Ball Game]**
