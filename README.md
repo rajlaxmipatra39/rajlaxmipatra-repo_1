@@ -1,7 +1,7 @@
-# rajlaxmipatra-repo_1
+# rajlaxmipatra39
 # Hi there, my self Rajlaxmi Patra
 
-##ABOUT ME:
+## ABOUT ME:
 
 
 I'm a passionate Student(learner) currently pursuing my Bachelor's in technology degree in Electronics and Telecommunication Engineering from Veer Surendra Sai University of Technology,Burla  with experience in C Programming, HTML, CSS. I love working on creative projects, learning new tech, and collaborating with diverse teams to create innovative solutions.
